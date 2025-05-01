@@ -1,5 +1,5 @@
 # 🧪 Lab: Hash Tables – Ransom Note Construction  
-**Lab GitHub Repo**: [Hash Tables – Ransom Note](https://github.com/your-org/hash-tables-ransom-note-lab)
+**Lab GitHub Repo**: [Hash Tables – Ransom Note](https://github.com/learn-co-curriculum/hash-table-ransom-note-lab)
 
 ---
 
